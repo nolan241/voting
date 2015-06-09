@@ -29,6 +29,9 @@ gem 'spring',        group: :development
 #devise 
 gem 'devise'
 
+# gem acts as votable https://github.com/ryanto/acts_as_votable
+gem 'acts_as_votable'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

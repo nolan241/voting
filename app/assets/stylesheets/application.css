@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+
+.thumb-box{
+    height: 500px;
+}
+
+.like:hover {
+    text-decoration: none;
+}
